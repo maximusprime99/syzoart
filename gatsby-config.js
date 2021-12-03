@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Starter Blog`,
     author: {
       name: `Dexter Brozo',
-      summary: `PureBlood!`,
+      summary: `PureBlood! Ya!`,
     },
     description: `Created from a gatsby started.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
